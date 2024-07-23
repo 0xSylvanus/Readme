@@ -5,7 +5,7 @@ I'm **[Redo Tristian Hadinata]**, a passionate software developer with a knack f
 ## About Me
 - 🔭 I’m currently working on [Bootcamp](https://www.risein.com)
 - 🌱 I’m currently learning [Web3]
-- 👯 I’m looking to collaborate on [wEB3 COMMUNITY]
+- 👯 I’m looking to collaborate on [WEB3 COMMUNITY]
 - 🤔 I’m looking for help with [Bootcamp]
 - 💬 Ask me about [Music,guitar,conspiration]
 - 📫 How to reach me: [x.com/hxdinata]
