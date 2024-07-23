@@ -21,6 +21,6 @@ I'm **[Redo Tristian Hadinata]**, a passionate software developer with a knack f
 - [Instagram](https://www.instagram.com/hxdinata/)
 
 ## Demo
-![Demo GIF](link-ke-gif)
+![Demo GIF](https://giphy.com/gifs/disneypixar-disney-pixar-rCmC12OWz9kTS)
 
 Feel free to explore my projects and don't forget to give them a star if you find them useful! ✨
