@@ -11,10 +11,6 @@ I'm **[Redo Tristian Hadinata]**, a passionate software developer with a knack f
 - 📫 How to reach me: [x.com/hxdinata]
 - ⚡ Fun fact: [can't sit still without thinking, dare to go far for progress, optimistic but logical]
 
-## My Projects
-- [Proyek A](https://www.risein.com/bootcamp-details/soroban-accelerated-bootcamp-in-india)): Deskripsi singkat proyek A
-- [Proyek B](link-ke-proyek): Deskripsi singkat proyek B
-- [Proyek C](link-ke-proyek): Deskripsi singkat proyek C
 
 ## GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)
