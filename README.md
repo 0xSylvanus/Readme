@@ -16,11 +16,11 @@ I'm **[Redo Tristian Hadinata]**, a passionate software developer with a knack f
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)
 
 ## Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/redo-tristian-hadinata/))
-- [Twitter](https://x.com/hxdinata))
-- [Instagram](https://www.instagram.com/hxdinata/)
+- [LinkedIn](https://www.linkedin.com/in/redo-tristian-hadinata/)
+- [Twitter](https://x.com/hxdinata)
+- [Instagram](https://www.instagram.com/hxdinata/
 
 ## Demo
-![Demo GIF](https://giphy.com/gifs/disneypixar-disney-pixar-rCmC12OWz9kTS)
+![Demo GIF](https://tenor.com/id/view/yes-yessiree-for-sure-sure-ok-gif-8368053375224078927)
 
 Feel free to explore my projects and don't forget to give them a star if you find them useful! ✨
