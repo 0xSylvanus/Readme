@@ -3,10 +3,9 @@
 I'm **[Sylvanus]**, a passionate software developer with a knack for open-source projects and innovative solutions.
 
 ## About Me
-- 🔭 I’m currently working on [Bootcamp](https://www.risein.com)
-- 🌱 I’m currently learning [Web3]
+- 🌱 I’m currently learning [Web3](https://www.risein.com)
 - 👯 I’m looking to collaborate on [WEB3 COMMUNITY]
-- 🤔 I’m looking for help with [Bootcamp]
+- 🤔 I’m looking for help with [WEB3 Community]
 - 💬 Ask me about [Music,Guitar,Conspiration,Crypto]
 - 📫 How to reach me: [x.com/0xSylvanus]
 - ⚡ Fun fact: [can't sit still without thinking, dare to go far for progress, optimistic but logical]
